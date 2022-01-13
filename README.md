@@ -1,2 +1,2 @@
-# Matrix Addition
-It's will be collects the matrices.
+# Java Examples
+Java dilinde yaptığım örnekleri buraya atıyorum.
