@@ -2,7 +2,7 @@ package randompassword;
 import java.util.Random;
 import java.util.Scanner;
 
-public class RandomPassword {
+public class RandomPassword {//min 8 max 16 digit password creator 
 
 
     public static void main(String[] args) {
