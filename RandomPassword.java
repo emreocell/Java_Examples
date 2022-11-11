@@ -8,7 +8,7 @@ public class RandomPassword {//min 8 max 16 digit password creator
     public static void main(String[] args) {
     Scanner k=new Scanner(System.in);    
     Random rand=new Random();
-    String s="QWERTYUIOPASDFGHJKLZXCVBNMqwertyuopasdfghjklizxcvbnm1234567890";
+    String s="QWERTYUIOPASDFGHJKLZXCVBNMqwertyuopasdfghjklizxcvbnm1234567890.,:;!'^+%&/()=?-_/*\"é;
     String password="",str;
         System.out.println("Şifre hanenizi kendiniz belirlemek ister misiniz?");
         System.out.println("Eğer belirlemek istiyorsanız sadece evet yazınız");
